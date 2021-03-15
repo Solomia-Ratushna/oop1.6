@@ -1,0 +1,5 @@
+﻿  Rational1.cpp
+  Source.cpp
+C:\Users\ADMIN\Desktop\lab1.6\lab1.6\Source.cpp(9,30): warning C4101: 'd': unreferenced local variable
+  Generating Code...
+  lab1.6.vcxproj -> C:\Users\ADMIN\Desktop\lab1.6\lab1.6\x64\Debug\lab1.6.exe
